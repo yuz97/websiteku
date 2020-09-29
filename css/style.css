@@ -1,0 +1,76 @@
+/*tambah font baru*/
+@font-face{
+	font-family: 'ubuntu';
+	src :url('css/Ubuntu-R.ttf') format('truetype');
+}
+
+.card{
+			margin-top: 20px;
+			margin-bottom: 20px;
+			background-color: whitesmoke;
+			border-color: whitesmoke;
+
+}
+
+.card  img{
+			width: 120px;
+			margin: auto;
+}
+
+.navbar-brand {
+			font-weight: bold;
+			font-size: 25px;
+}
+
+body{
+	font-family: 'ubuntu';
+
+}
+
+.gambar2{
+	margin-bottom:480px;
+}
+
+.jumbotron {
+	background-image: url(../img/r2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.jumbotron .container{
+	height: 350px;
+	color: white;
+	margin-top:97px;
+}
+
+.samsung{
+	width: 650px;
+	height: 500px;
+	border-radius: 5px;
+	
+}
+
+.iphone{
+	width: 350px;
+	height:500px;
+	border-radius: 5px;
+}
+
+.iphone2{
+	width: 350px;
+	border-radius: 5px;
+}
+
+footer{
+	background-color: black;
+	color: white;
+}
+
+.daftar{
+	list-style-type: none;
+}
+
+
+
+
+
